@@ -1,0 +1,300 @@
+path,true,pred,confidence,second_pred,second_prob,correct
+/content/data/oxford-iiit-pet/images/Ragdoll_83.jpg,Ragdoll,Ragdoll,0.7397807,Birman,0.25495857,True
+/content/data/oxford-iiit-pet/images/beagle_70.jpg,Beagle,Beagle,0.6445545,American Pit Bull Terrier,0.29386652,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_9.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9667683,Staffordshire Bull Terrier,0.0329497,True
+/content/data/oxford-iiit-pet/images/beagle_138.jpg,Beagle,Beagle,0.99849355,American Pit Bull Terrier,0.0013491481,True
+/content/data/oxford-iiit-pet/images/samoyed_51.jpg,Samoyed,Samoyed,0.9974989,Staffordshire Bull Terrier,0.0006929904,True
+/content/data/oxford-iiit-pet/images/pug_35.jpg,Pug,Pug,0.99615085,Staffordshire Bull Terrier,0.0013605264,True
+/content/data/oxford-iiit-pet/images/Abyssinian_119.jpg,Abyssinian,Abyssinian,0.9995844,Bengal,0.00038218277,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_258.jpg,Russian Blue,Russian Blue,0.9993975,Abyssinian,0.0004519556,True
+/content/data/oxford-iiit-pet/images/Bengal_135.jpg,Bengal,Bengal,0.99092734,American Pit Bull Terrier,0.0035768424,True
+/content/data/oxford-iiit-pet/images/beagle_115.jpg,Beagle,Beagle,0.99949193,American Pit Bull Terrier,0.00021933539,True
+/content/data/oxford-iiit-pet/images/samoyed_13.jpg,Samoyed,Samoyed,0.99815637,Birman,0.0005105783,True
+/content/data/oxford-iiit-pet/images/beagle_40.jpg,Beagle,Beagle,0.99996924,Staffordshire Bull Terrier,1.6311178e-05,True
+/content/data/oxford-iiit-pet/images/pug_43.jpg,Pug,Pug,0.9997496,Staffordshire Bull Terrier,0.0001100377,True
+/content/data/oxford-iiit-pet/images/pug_99.jpg,Pug,Pug,0.99608445,Staffordshire Bull Terrier,0.0026036566,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_104.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.7842452,Staffordshire Bull Terrier,0.21280706,True
+/content/data/oxford-iiit-pet/images/samoyed_152.jpg,Samoyed,Samoyed,0.9989623,Staffordshire Bull Terrier,0.00045090457,True
+/content/data/oxford-iiit-pet/images/Abyssinian_73.jpg,Abyssinian,Abyssinian,0.99771225,Russian Blue,0.0010154386,True
+/content/data/oxford-iiit-pet/images/Birman_83.jpg,Birman,Birman,0.99410075,Ragdoll,0.005883272,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_112.jpg,Russian Blue,Russian Blue,0.99975604,Staffordshire Bull Terrier,0.00014203748,True
+/content/data/oxford-iiit-pet/images/Ragdoll_43.jpg,Ragdoll,Ragdoll,0.9997173,Abyssinian,0.00011319933,True
+/content/data/oxford-iiit-pet/images/Bengal_30.jpg,Bengal,Bengal,0.99949694,Staffordshire Bull Terrier,0.00020093692,True
+/content/data/oxford-iiit-pet/images/samoyed_11.jpg,Samoyed,Samoyed,0.9979691,Staffordshire Bull Terrier,0.0008662728,True
+/content/data/oxford-iiit-pet/images/Ragdoll_8.jpg,Ragdoll,Ragdoll,0.8690757,Birman,0.13048077,True
+/content/data/oxford-iiit-pet/images/Birman_72.jpg,Birman,Ragdoll,0.6962788,Birman,0.29924154,False
+/content/data/oxford-iiit-pet/images/Abyssinian_80.jpg,Abyssinian,Abyssinian,0.9993923,Bengal,0.0004080241,True
+/content/data/oxford-iiit-pet/images/Abyssinian_90.jpg,Abyssinian,Abyssinian,0.9842461,Bengal,0.014935648,True
+/content/data/oxford-iiit-pet/images/samoyed_5.jpg,Samoyed,Samoyed,0.99928856,Staffordshire Bull Terrier,0.0002752992,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_32.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.7208674,American Pit Bull Terrier,0.27749673,False
+/content/data/oxford-iiit-pet/images/pug_56.jpg,Pug,Pug,0.9998739,Staffordshire Bull Terrier,3.937806e-05,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_140.jpg,Russian Blue,Russian Blue,0.9999758,Abyssinian,2.1599155e-05,True
+/content/data/oxford-iiit-pet/images/Ragdoll_45.jpg,Ragdoll,Ragdoll,0.9701961,Birman,0.028803341,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_133.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.88735586,American Pit Bull Terrier,0.06611989,True
+/content/data/oxford-iiit-pet/images/pug_163.jpg,Pug,Pug,0.9965849,Staffordshire Bull Terrier,0.0027274336,True
+/content/data/oxford-iiit-pet/images/samoyed_26.jpg,Samoyed,Samoyed,0.9986065,Staffordshire Bull Terrier,0.00052512746,True
+/content/data/oxford-iiit-pet/images/pug_111.jpg,Pug,Pug,0.9987155,Staffordshire Bull Terrier,0.0007554695,True
+/content/data/oxford-iiit-pet/images/Abyssinian_1.jpg,Abyssinian,Abyssinian,0.9999893,Staffordshire Bull Terrier,3.402303e-06,True
+/content/data/oxford-iiit-pet/images/Abyssinian_17.jpg,Abyssinian,Abyssinian,0.99637324,Russian Blue,0.0029834793,True
+/content/data/oxford-iiit-pet/images/Ragdoll_68.jpg,Ragdoll,Ragdoll,0.9999461,Birman,4.1466872e-05,True
+/content/data/oxford-iiit-pet/images/Birman_114.jpg,Birman,Birman,0.91383165,Ragdoll,0.082156986,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_65.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.96092904,American Pit Bull Terrier,0.03545237,True
+/content/data/oxford-iiit-pet/images/Ragdoll_250.jpg,Ragdoll,Ragdoll,0.97293615,Bengal,0.016978117,True
+/content/data/oxford-iiit-pet/images/samoyed_38.jpg,Samoyed,Samoyed,0.99883634,Staffordshire Bull Terrier,0.0003513495,True
+/content/data/oxford-iiit-pet/images/beagle_78.jpg,Beagle,Beagle,0.9999912,American Pit Bull Terrier,4.375373e-06,True
+/content/data/oxford-iiit-pet/images/Ragdoll_33.jpg,Ragdoll,Ragdoll,0.94655097,Birman,0.05336567,True
+/content/data/oxford-iiit-pet/images/Bengal_195.jpg,Bengal,Bengal,0.9978241,Abyssinian,0.0010558462,True
+/content/data/oxford-iiit-pet/images/pug_12.jpg,Pug,Pug,0.99981254,Staffordshire Bull Terrier,0.00011489183,True
+/content/data/oxford-iiit-pet/images/Bengal_23.jpg,Bengal,Bengal,0.9990319,Staffordshire Bull Terrier,0.00037718023,True
+/content/data/oxford-iiit-pet/images/beagle_17.jpg,Beagle,Beagle,0.99948055,American Pit Bull Terrier,0.00032390087,True
+/content/data/oxford-iiit-pet/images/Birman_87.jpg,Birman,Birman,0.9645025,Ragdoll,0.035260946,True
+/content/data/oxford-iiit-pet/images/Ragdoll_115.jpg,Ragdoll,Ragdoll,0.99948585,Birman,0.00021998871,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_98.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.8337484,American Pit Bull Terrier,0.1652906,False
+/content/data/oxford-iiit-pet/images/Russian_Blue_96.jpg,Russian Blue,Russian Blue,0.90484345,Abyssinian,0.09311864,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_61.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.98397726,American Pit Bull Terrier,0.008102487,True
+/content/data/oxford-iiit-pet/images/pug_24.jpg,Pug,Pug,0.995452,Staffordshire Bull Terrier,0.0018987128,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_86.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9956767,Staffordshire Bull Terrier,0.003991732,True
+/content/data/oxford-iiit-pet/images/Bengal_138.jpg,Bengal,Bengal,0.8402732,Abyssinian,0.15964025,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_81.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.99788827,American Pit Bull Terrier,0.0020039487,True
+/content/data/oxford-iiit-pet/images/beagle_63.jpg,Beagle,Beagle,0.9992932,American Pit Bull Terrier,0.00023058838,True
+/content/data/oxford-iiit-pet/images/Ragdoll_159.jpg,Ragdoll,Ragdoll,0.9972459,Birman,0.0018405494,True
+/content/data/oxford-iiit-pet/images/Abyssinian_184.jpg,Abyssinian,Abyssinian,0.9999862,Beagle,6.189294e-06,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_199.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9951664,Staffordshire Bull Terrier,0.004820645,True
+/content/data/oxford-iiit-pet/images/Birman_58.jpg,Birman,Birman,0.98508954,Ragdoll,0.013249724,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_203.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9977848,Staffordshire Bull Terrier,0.0016523842,True
+/content/data/oxford-iiit-pet/images/Birman_142.jpg,Birman,Birman,0.97563213,Ragdoll,0.024206877,True
+/content/data/oxford-iiit-pet/images/Birman_89.jpg,Birman,Birman,0.97602546,Ragdoll,0.022928458,True
+/content/data/oxford-iiit-pet/images/Bengal_86.jpg,Bengal,Bengal,0.9998888,Beagle,5.7783414e-05,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_244.jpg,Russian Blue,Russian Blue,0.9689126,Abyssinian,0.012842901,True
+/content/data/oxford-iiit-pet/images/beagle_169.jpg,Beagle,Beagle,0.99641573,Staffordshire Bull Terrier,0.0016798143,True
+/content/data/oxford-iiit-pet/images/Bengal_190.jpg,Bengal,Bengal,0.99957246,Abyssinian,0.00016363502,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_44.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.99880624,American Pit Bull Terrier,0.0006760897,True
+/content/data/oxford-iiit-pet/images/pug_201.jpg,Pug,Pug,0.9915786,American Pit Bull Terrier,0.0037564647,True
+/content/data/oxford-iiit-pet/images/beagle_117.jpg,Beagle,Beagle,0.9999858,American Pit Bull Terrier,6.2015283e-06,True
+/content/data/oxford-iiit-pet/images/Ragdoll_86.jpg,Ragdoll,Ragdoll,0.9236781,Birman,0.07522787,True
+/content/data/oxford-iiit-pet/images/Ragdoll_92.jpg,Ragdoll,Ragdoll,0.8963977,Birman,0.08702248,True
+/content/data/oxford-iiit-pet/images/Ragdoll_245.jpg,Ragdoll,Birman,0.58538264,Ragdoll,0.40560475,False
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_62.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.7221054,Staffordshire Bull Terrier,0.2768155,False
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_10.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.8561169,Staffordshire Bull Terrier,0.14290257,True
+/content/data/oxford-iiit-pet/images/beagle_133.jpg,Beagle,Beagle,0.9996668,Staffordshire Bull Terrier,0.00013775902,True
+/content/data/oxford-iiit-pet/images/Abyssinian_11.jpg,Abyssinian,Abyssinian,0.99914765,Russian Blue,0.0007841513,True
+/content/data/oxford-iiit-pet/images/Bengal_45.jpg,Bengal,Bengal,0.9987784,Abyssinian,0.0005040269,True
+/content/data/oxford-iiit-pet/images/Ragdoll_41.jpg,Ragdoll,Ragdoll,0.998988,Russian Blue,0.0004561516,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_100.jpg,Russian Blue,Russian Blue,0.9988882,Abyssinian,0.0007305523,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_125.jpg,Russian Blue,Russian Blue,0.99897265,Abyssinian,0.0009443765,True
+/content/data/oxford-iiit-pet/images/pug_93.jpg,Pug,Pug,0.9986425,Staffordshire Bull Terrier,0.0007908283,True
+/content/data/oxford-iiit-pet/images/Ragdoll_163.jpg,Ragdoll,Ragdoll,0.9991084,Abyssinian,0.0006667239,True
+/content/data/oxford-iiit-pet/images/Ragdoll_5.jpg,Ragdoll,Ragdoll,0.9990054,Birman,0.00085703516,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_194.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9996375,Staffordshire Bull Terrier,0.00033427327,True
+/content/data/oxford-iiit-pet/images/samoyed_176.jpg,Samoyed,Samoyed,0.98096704,Ragdoll,0.0046022004,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_126.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9950293,American Pit Bull Terrier,0.004106763,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_46.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.99415237,American Pit Bull Terrier,0.0055262926,True
+/content/data/oxford-iiit-pet/images/Bengal_188.jpg,Bengal,Bengal,0.96744865,Abyssinian,0.029344363,True
+/content/data/oxford-iiit-pet/images/beagle_69.jpg,Beagle,Beagle,0.9998599,American Pit Bull Terrier,5.8087673e-05,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_76.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.8442887,American Pit Bull Terrier,0.15224984,True
+/content/data/oxford-iiit-pet/images/pug_112.jpg,Pug,Pug,0.99946684,Staffordshire Bull Terrier,0.00037962387,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_149.jpg,Russian Blue,Russian Blue,0.9119417,Abyssinian,0.07964178,True
+/content/data/oxford-iiit-pet/images/Abyssinian_2.jpg,Abyssinian,Abyssinian,0.9998665,Russian Blue,0.000110363035,True
+/content/data/oxford-iiit-pet/images/Bengal_84.jpg,Bengal,Bengal,0.9326744,Abyssinian,0.05722121,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_21.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.699971,Staffordshire Bull Terrier,0.29683778,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_127.jpg,Russian Blue,Russian Blue,0.9999652,Abyssinian,2.366204e-05,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_207.jpg,Russian Blue,Russian Blue,0.9997986,Staffordshire Bull Terrier,0.00011618932,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_197.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.75540054,American Pit Bull Terrier,0.19050695,True
+/content/data/oxford-iiit-pet/images/samoyed_199.jpg,Samoyed,Samoyed,0.9985682,Staffordshire Bull Terrier,0.0006800962,True
+/content/data/oxford-iiit-pet/images/Abyssinian_33.jpg,Abyssinian,Abyssinian,0.90029377,Russian Blue,0.08887623,True
+/content/data/oxford-iiit-pet/images/Abyssinian_103.jpg,Abyssinian,Abyssinian,0.9995117,Bengal,0.00020357374,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_197.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.5700949,American Pit Bull Terrier,0.41681123,False
+/content/data/oxford-iiit-pet/images/Bengal_97.jpg,Bengal,Bengal,0.9998566,Abyssinian,3.306302e-05,True
+/content/data/oxford-iiit-pet/images/Bengal_20.jpg,Bengal,Bengal,0.9981572,Staffordshire Bull Terrier,0.0008085767,True
+/content/data/oxford-iiit-pet/images/Birman_126.jpg,Birman,Birman,0.97858757,Ragdoll,0.021370228,True
+/content/data/oxford-iiit-pet/images/samoyed_46.jpg,Samoyed,Samoyed,0.9976659,American Pit Bull Terrier,0.0008429852,True
+/content/data/oxford-iiit-pet/images/beagle_190.jpg,Beagle,Beagle,0.99883944,Staffordshire Bull Terrier,0.00068991655,True
+/content/data/oxford-iiit-pet/images/beagle_112.jpg,Beagle,Beagle,0.99971455,American Pit Bull Terrier,0.00023818476,True
+/content/data/oxford-iiit-pet/images/pug_130.jpg,Pug,Pug,0.9995946,Beagle,0.0001269481,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_55.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.7538312,American Pit Bull Terrier,0.24505147,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_40.jpg,Russian Blue,Russian Blue,0.99659306,Abyssinian,0.0032512448,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_129.jpg,Russian Blue,Russian Blue,0.9986173,Abyssinian,0.0009263363,True
+/content/data/oxford-iiit-pet/images/Birman_152.jpg,Birman,Birman,0.995598,Ragdoll,0.0043504867,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_79.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.56770706,Staffordshire Bull Terrier,0.41502938,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_149.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9913455,American Pit Bull Terrier,0.008269307,True
+/content/data/oxford-iiit-pet/images/pug_59.jpg,Pug,Pug,0.99879265,Birman,0.00042682947,True
+/content/data/oxford-iiit-pet/images/samoyed_150.jpg,Samoyed,Samoyed,0.9629073,Ragdoll,0.010511863,True
+/content/data/oxford-iiit-pet/images/pug_196.jpg,Pug,Pug,0.99964833,American Pit Bull Terrier,0.00012055403,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_151.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9980406,American Pit Bull Terrier,0.0016741112,True
+/content/data/oxford-iiit-pet/images/Bengal_147.jpg,Bengal,Bengal,0.9335684,Abyssinian,0.06593731,True
+/content/data/oxford-iiit-pet/images/Abyssinian_112.jpg,Abyssinian,Abyssinian,0.9958359,Bengal,0.0029474592,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_32.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9810877,American Pit Bull Terrier,0.015711173,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_25.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.93322384,American Pit Bull Terrier,0.058516,True
+/content/data/oxford-iiit-pet/images/beagle_114.jpg,Beagle,Beagle,0.9999293,Abyssinian,2.8820628e-05,True
+/content/data/oxford-iiit-pet/images/Bengal_70.jpg,Bengal,Bengal,0.99844164,Abyssinian,0.0014532108,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_150.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.95571446,American Pit Bull Terrier,0.042858128,True
+/content/data/oxford-iiit-pet/images/Bengal_162.jpg,Bengal,Bengal,0.99961936,Abyssinian,0.00016462697,True
+/content/data/oxford-iiit-pet/images/samoyed_33.jpg,Samoyed,Samoyed,0.99926335,Staffordshire Bull Terrier,0.00034345992,True
+/content/data/oxford-iiit-pet/images/Abyssinian_101.jpg,Abyssinian,Abyssinian,0.77029115,Bengal,0.22897436,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_31.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.99604934,American Pit Bull Terrier,0.0038796905,True
+/content/data/oxford-iiit-pet/images/samoyed_190.jpg,Samoyed,Samoyed,0.9992151,Birman,0.00018210366,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_75.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.97677916,American Pit Bull Terrier,0.023004096,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_226.jpg,Russian Blue,Russian Blue,0.9906476,Abyssinian,0.0070534986,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_189.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9981111,American Pit Bull Terrier,0.0014329681,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_26.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.891064,American Pit Bull Terrier,0.10562188,False
+/content/data/oxford-iiit-pet/images/Bengal_79.jpg,Bengal,Bengal,0.99803334,Abyssinian,0.0014979932,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_129.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.99904245,American Pit Bull Terrier,0.00079510314,True
+/content/data/oxford-iiit-pet/images/Abyssinian_228.jpg,Abyssinian,Abyssinian,0.99965,Bengal,0.00032297205,True
+/content/data/oxford-iiit-pet/images/Ragdoll_111.jpg,Ragdoll,Ragdoll,0.9771289,Birman,0.022451734,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_13.jpg,Russian Blue,Russian Blue,0.99434656,Abyssinian,0.0055216798,True
+/content/data/oxford-iiit-pet/images/Bengal_68.jpg,Bengal,Bengal,0.99152726,Abyssinian,0.0048680706,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_89.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.54410756,Beagle,0.23190702,False
+/content/data/oxford-iiit-pet/images/Ragdoll_130.jpg,Ragdoll,Ragdoll,0.96188635,Bengal,0.028134763,True
+/content/data/oxford-iiit-pet/images/Bengal_134.jpg,Bengal,Abyssinian,0.98164314,Bengal,0.017753286,False
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_138.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9798875,Staffordshire Bull Terrier,0.020040704,True
+/content/data/oxford-iiit-pet/images/beagle_128.jpg,Beagle,Beagle,0.99683785,Staffordshire Bull Terrier,0.0020818217,True
+/content/data/oxford-iiit-pet/images/samoyed_37.jpg,Samoyed,Samoyed,0.9989452,Beagle,0.00029300936,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_162.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9994985,Staffordshire Bull Terrier,0.00048752537,True
+/content/data/oxford-iiit-pet/images/samoyed_40.jpg,Samoyed,Samoyed,0.99808735,Ragdoll,0.00063755165,True
+/content/data/oxford-iiit-pet/images/Birman_187.jpg,Birman,Birman,0.9973787,Ragdoll,0.002360617,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_78.jpg,Russian Blue,Russian Blue,0.99317884,Staffordshire Bull Terrier,0.003811608,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_180.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9913429,American Pit Bull Terrier,0.007315876,True
+/content/data/oxford-iiit-pet/images/samoyed_131.jpg,Samoyed,Samoyed,0.9740961,Beagle,0.012884104,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_181.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9831298,American Pit Bull Terrier,0.016308801,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_21.jpg,Russian Blue,Russian Blue,0.999332,Abyssinian,0.00044767713,True
+/content/data/oxford-iiit-pet/images/samoyed_29.jpg,Samoyed,Samoyed,0.9958616,Staffordshire Bull Terrier,0.0016866239,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_29.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.8199547,American Pit Bull Terrier,0.093371406,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_160.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9698585,Staffordshire Bull Terrier,0.029666476,True
+/content/data/oxford-iiit-pet/images/Abyssinian_215.jpg,Abyssinian,Abyssinian,0.39808726,Ragdoll,0.37428036,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_178.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9838271,Staffordshire Bull Terrier,0.015778482,True
+/content/data/oxford-iiit-pet/images/Abyssinian_108.jpg,Abyssinian,Abyssinian,0.8795194,Bengal,0.11618825,True
+/content/data/oxford-iiit-pet/images/Ragdoll_156.jpg,Ragdoll,Ragdoll,0.76504457,Abyssinian,0.16777623,True
+/content/data/oxford-iiit-pet/images/Abyssinian_67.jpg,Abyssinian,Abyssinian,0.9803017,Russian Blue,0.017570192,True
+/content/data/oxford-iiit-pet/images/Birman_121.jpg,Birman,Birman,0.85322803,Ragdoll,0.14627068,True
+/content/data/oxford-iiit-pet/images/Ragdoll_103.jpg,Ragdoll,Ragdoll,0.9662833,Abyssinian,0.025396932,True
+/content/data/oxford-iiit-pet/images/beagle_107.jpg,Beagle,Beagle,0.9998361,American Pit Bull Terrier,9.8571116e-05,True
+/content/data/oxford-iiit-pet/images/Bengal_201.jpg,Bengal,Bengal,0.9941789,Abyssinian,0.005591635,True
+/content/data/oxford-iiit-pet/images/samoyed_133.jpg,Samoyed,Samoyed,0.99548537,Staffordshire Bull Terrier,0.0014042831,True
+/content/data/oxford-iiit-pet/images/beagle_37.jpg,Beagle,Beagle,0.99966407,Staffordshire Bull Terrier,0.00013449331,True
+/content/data/oxford-iiit-pet/images/pug_154.jpg,Pug,Pug,0.99872583,American Pit Bull Terrier,0.0006552574,True
+/content/data/oxford-iiit-pet/images/beagle_4.jpg,Beagle,Beagle,0.9782033,American Pit Bull Terrier,0.017232008,True
+/content/data/oxford-iiit-pet/images/Bengal_143.jpg,Bengal,Abyssinian,0.79720676,Bengal,0.20155652,False
+/content/data/oxford-iiit-pet/images/Birman_51.jpg,Birman,Birman,0.72890157,Ragdoll,0.26546228,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_120.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.998898,Staffordshire Bull Terrier,0.0010436045,True
+/content/data/oxford-iiit-pet/images/samoyed_184.jpg,Samoyed,Samoyed,0.9976373,Staffordshire Bull Terrier,0.00097001594,True
+/content/data/oxford-iiit-pet/images/Ragdoll_44.jpg,Ragdoll,Ragdoll,0.99995744,Abyssinian,1.6612968e-05,True
+/content/data/oxford-iiit-pet/images/Ragdoll_64.jpg,Ragdoll,Ragdoll,0.9741018,Birman,0.012749974,True
+/content/data/oxford-iiit-pet/images/Birman_61.jpg,Birman,Birman,0.96169484,Ragdoll,0.03806953,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_152.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.99795204,American Pit Bull Terrier,0.001910109,True
+/content/data/oxford-iiit-pet/images/pug_30.jpg,Pug,Pug,0.9940503,Staffordshire Bull Terrier,0.004545093,True
+/content/data/oxford-iiit-pet/images/Birman_45.jpg,Birman,Birman,0.9911942,Ragdoll,0.008533893,True
+/content/data/oxford-iiit-pet/images/Bengal_154.jpg,Bengal,Bengal,0.7121342,Abyssinian,0.28302297,True
+/content/data/oxford-iiit-pet/images/pug_173.jpg,Pug,Pug,0.99991894,Staffordshire Bull Terrier,4.239668e-05,True
+/content/data/oxford-iiit-pet/images/pug_53.jpg,Pug,Pug,0.9992999,Staffordshire Bull Terrier,0.00035700892,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_12.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.90769947,Staffordshire Bull Terrier,0.0905855,True
+/content/data/oxford-iiit-pet/images/beagle_22.jpg,Beagle,Beagle,0.99995637,Abyssinian,1.1646955e-05,True
+/content/data/oxford-iiit-pet/images/pug_191.jpg,Pug,Pug,0.99982375,American Pit Bull Terrier,9.5639036e-05,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_71.jpg,Russian Blue,Russian Blue,0.9999572,Abyssinian,2.8827892e-05,True
+/content/data/oxford-iiit-pet/images/Abyssinian_32.jpg,Abyssinian,Abyssinian,0.9996182,Bengal,0.00034628206,True
+/content/data/oxford-iiit-pet/images/Abyssinian_205.jpg,Abyssinian,Abyssinian,0.995602,American Pit Bull Terrier,0.0028173367,True
+/content/data/oxford-iiit-pet/images/Birman_130.jpg,Birman,Birman,0.93398255,Ragdoll,0.063861005,True
+/content/data/oxford-iiit-pet/images/samoyed_110.jpg,Samoyed,Samoyed,0.9991347,Ragdoll,0.00024196599,True
+/content/data/oxford-iiit-pet/images/Birman_59.jpg,Birman,Birman,0.7300518,Ragdoll,0.26695517,True
+/content/data/oxford-iiit-pet/images/Birman_185.jpg,Birman,Ragdoll,0.5958056,Birman,0.40351167,False
+/content/data/oxford-iiit-pet/images/Birman_54.jpg,Birman,Birman,0.8081989,Ragdoll,0.19113518,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_143.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9770711,American Pit Bull Terrier,0.022297284,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_124.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9998023,Staffordshire Bull Terrier,0.00018393122,True
+/content/data/oxford-iiit-pet/images/samoyed_75.jpg,Samoyed,Samoyed,0.99532014,Staffordshire Bull Terrier,0.0026623104,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_74.jpg,Russian Blue,Russian Blue,0.9892976,Abyssinian,0.0072253793,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_142.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.99830025,Staffordshire Bull Terrier,0.0014783335,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_117.jpg,Russian Blue,Russian Blue,0.9799983,Abyssinian,0.01841655,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_87.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.93769264,Staffordshire Bull Terrier,0.06154741,True
+/content/data/oxford-iiit-pet/images/Abyssinian_149.jpg,Abyssinian,Abyssinian,0.99001557,Bengal,0.009590921,True
+/content/data/oxford-iiit-pet/images/Abyssinian_55.jpg,Abyssinian,Abyssinian,0.9943921,Russian Blue,0.0036277403,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_1.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.899178,American Pit Bull Terrier,0.09959279,False
+/content/data/oxford-iiit-pet/images/pug_203.jpg,Pug,Pug,0.9998783,Staffordshire Bull Terrier,4.6630143e-05,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_73.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9914255,Staffordshire Bull Terrier,0.0077990727,True
+/content/data/oxford-iiit-pet/images/Abyssinian_185.jpg,Abyssinian,Abyssinian,0.99567527,Bengal,0.002432105,True
+/content/data/oxford-iiit-pet/images/Birman_103.jpg,Birman,Birman,0.6037806,Ragdoll,0.39410248,True
+/content/data/oxford-iiit-pet/images/Ragdoll_164.jpg,Ragdoll,Ragdoll,0.9463139,Samoyed,0.04919115,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_17.jpg,Russian Blue,Russian Blue,0.99956983,Abyssinian,0.000413469,True
+/content/data/oxford-iiit-pet/images/samoyed_50.jpg,Samoyed,Samoyed,0.99822146,American Pit Bull Terrier,0.0003471341,True
+/content/data/oxford-iiit-pet/images/Bengal_4.jpg,Bengal,Bengal,0.999491,Abyssinian,0.00025174572,True
+/content/data/oxford-iiit-pet/images/Bengal_133.jpg,Bengal,Bengal,0.9983369,Abyssinian,0.00068252115,True
+/content/data/oxford-iiit-pet/images/Birman_32.jpg,Birman,Birman,0.9782153,Ragdoll,0.021214854,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_196.jpg,Russian Blue,Russian Blue,0.9997956,Abyssinian,0.00015722091,True
+/content/data/oxford-iiit-pet/images/Birman_120.jpg,Birman,Birman,0.8921939,Ragdoll,0.106488995,True
+/content/data/oxford-iiit-pet/images/Abyssinian_153.jpg,Abyssinian,Abyssinian,0.9980596,Beagle,0.00061430724,True
+/content/data/oxford-iiit-pet/images/Bengal_185.jpg,Bengal,Bengal,0.9953027,Abyssinian,0.0012700453,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_48.jpg,Russian Blue,Russian Blue,0.99764377,Abyssinian,0.00231569,True
+/content/data/oxford-iiit-pet/images/pug_51.jpg,Pug,Pug,0.99845994,Staffordshire Bull Terrier,0.0012230825,True
+/content/data/oxford-iiit-pet/images/Abyssinian_116.jpg,Abyssinian,Abyssinian,0.9961779,Russian Blue,0.0018623241,True
+/content/data/oxford-iiit-pet/images/beagle_116.jpg,Beagle,Beagle,0.9973773,Staffordshire Bull Terrier,0.0017130981,True
+/content/data/oxford-iiit-pet/images/pug_9.jpg,Pug,Pug,0.99328196,Beagle,0.0035943526,True
+/content/data/oxford-iiit-pet/images/Abyssinian_13.jpg,Abyssinian,Abyssinian,0.99966013,Russian Blue,0.00032493184,True
+/content/data/oxford-iiit-pet/images/samoyed_137.jpg,Samoyed,Samoyed,0.9952437,Staffordshire Bull Terrier,0.001987714,True
+/content/data/oxford-iiit-pet/images/pug_156.jpg,Pug,Pug,0.9997179,American Pit Bull Terrier,0.00011040821,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_76.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.96931636,Staffordshire Bull Terrier,0.030111713,True
+/content/data/oxford-iiit-pet/images/pug_146.jpg,Pug,Pug,0.99965775,Staffordshire Bull Terrier,0.00016548585,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_43.jpg,Russian Blue,Russian Blue,0.9773366,Abyssinian,0.012091727,True
+/content/data/oxford-iiit-pet/images/Bengal_62.jpg,Bengal,Bengal,0.9996469,Abyssinian,8.621654e-05,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_109.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.994101,Staffordshire Bull Terrier,0.005798197,True
+/content/data/oxford-iiit-pet/images/pug_66.jpg,Pug,Pug,0.99790514,Staffordshire Bull Terrier,0.0006358466,True
+/content/data/oxford-iiit-pet/images/Abyssinian_65.jpg,Abyssinian,Abyssinian,0.99989057,Russian Blue,7.399878e-05,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_162.jpg,Russian Blue,Russian Blue,0.99995005,Abyssinian,3.12132e-05,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_131.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9867313,American Pit Bull Terrier,0.013154213,True
+/content/data/oxford-iiit-pet/images/pug_103.jpg,Pug,Pug,0.998896,Staffordshire Bull Terrier,0.0005107645,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_41.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9880763,American Pit Bull Terrier,0.011809665,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_141.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.98757136,American Pit Bull Terrier,0.012346138,True
+/content/data/oxford-iiit-pet/images/Birman_11.jpg,Birman,Birman,0.6717278,Ragdoll,0.32715067,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_84.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.8906855,Staffordshire Bull Terrier,0.10769153,True
+/content/data/oxford-iiit-pet/images/beagle_136.jpg,Beagle,Beagle,0.99993384,American Pit Bull Terrier,1.9745712e-05,True
+/content/data/oxford-iiit-pet/images/Ragdoll_59.jpg,Ragdoll,Ragdoll,0.9998599,Abyssinian,0.000101849175,True
+/content/data/oxford-iiit-pet/images/Ragdoll_60.jpg,Ragdoll,Ragdoll,0.718339,Birman,0.26389763,True
+/content/data/oxford-iiit-pet/images/Ragdoll_90.jpg,Ragdoll,Ragdoll,0.99822384,Birman,0.0011044116,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_16.jpg,Russian Blue,Russian Blue,0.9874972,Abyssinian,0.0069723334,True
+/content/data/oxford-iiit-pet/images/Birman_80.jpg,Birman,Birman,0.91350573,Ragdoll,0.08632054,True
+/content/data/oxford-iiit-pet/images/pug_26.jpg,Pug,Pug,0.9984993,Staffordshire Bull Terrier,0.0007292514,True
+/content/data/oxford-iiit-pet/images/Birman_109.jpg,Birman,Birman,0.92053366,Ragdoll,0.07398745,True
+/content/data/oxford-iiit-pet/images/beagle_143.jpg,Beagle,Beagle,0.9997588,American Pit Bull Terrier,0.00015120298,True
+/content/data/oxford-iiit-pet/images/samoyed_103.jpg,Samoyed,Samoyed,0.99849236,Staffordshire Bull Terrier,0.00072974624,True
+/content/data/oxford-iiit-pet/images/Birman_180.jpg,Birman,Birman,0.964221,Ragdoll,0.032189403,True
+/content/data/oxford-iiit-pet/images/samoyed_122.jpg,Samoyed,Samoyed,0.99922717,Birman,0.00015320041,True
+/content/data/oxford-iiit-pet/images/beagle_188.jpg,Beagle,Beagle,0.99040633,American Pit Bull Terrier,0.007093799,True
+/content/data/oxford-iiit-pet/images/Bengal_101.jpg,Bengal,Bengal,0.9972248,Abyssinian,0.0021884812,True
+/content/data/oxford-iiit-pet/images/samoyed_196.jpg,Samoyed,Samoyed,0.9992467,Staffordshire Bull Terrier,0.00026850725,True
+/content/data/oxford-iiit-pet/images/Bengal_49.jpg,Bengal,Bengal,0.9990552,Abyssinian,0.0004931359,True
+/content/data/oxford-iiit-pet/images/Bengal_74.jpg,Bengal,Bengal,0.9856829,Abyssinian,0.014225475,True
+/content/data/oxford-iiit-pet/images/pug_63.jpg,Pug,Pug,0.99913824,Staffordshire Bull Terrier,0.00058437855,True
+/content/data/oxford-iiit-pet/images/pug_45.jpg,Pug,Pug,0.9984578,Staffordshire Bull Terrier,0.0006561282,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_102.jpg,Russian Blue,Russian Blue,0.99895966,Birman,0.00024923086,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_38.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9330063,Staffordshire Bull Terrier,0.06558109,True
+/content/data/oxford-iiit-pet/images/Ragdoll_73.jpg,Ragdoll,Ragdoll,0.99999654,Abyssinian,2.5048369e-06,True
+/content/data/oxford-iiit-pet/images/Abyssinian_169.jpg,Abyssinian,Abyssinian,0.999683,Bengal,0.00027889566,True
+/content/data/oxford-iiit-pet/images/Ragdoll_254.jpg,Ragdoll,Ragdoll,0.9838501,Abyssinian,0.014814847,True
+/content/data/oxford-iiit-pet/images/Birman_12.jpg,Birman,Birman,0.9789873,Ragdoll,0.020934206,True
+/content/data/oxford-iiit-pet/images/staffordshire_bull_terrier_57.jpg,Staffordshire Bull Terrier,Staffordshire Bull Terrier,0.9931084,American Pit Bull Terrier,0.005665797,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_157.jpg,Russian Blue,Russian Blue,0.91742194,Staffordshire Bull Terrier,0.0816154,True
+/content/data/oxford-iiit-pet/images/beagle_130.jpg,Beagle,Beagle,0.9994128,American Pit Bull Terrier,0.00038330368,True
+/content/data/oxford-iiit-pet/images/beagle_2.jpg,Beagle,Beagle,0.9987978,Staffordshire Bull Terrier,0.000784924,True
+/content/data/oxford-iiit-pet/images/american_pit_bull_terrier_123.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.9992169,Beagle,0.0004758181,True
+/content/data/oxford-iiit-pet/images/Abyssinian_8.jpg,Abyssinian,Abyssinian,0.8676855,Russian Blue,0.12351034,True
+/content/data/oxford-iiit-pet/images/Ragdoll_255.jpg,Ragdoll,Ragdoll,0.99915254,Abyssinian,0.0006880536,True
+/content/data/oxford-iiit-pet/images/Bengal_161.jpg,Bengal,Bengal,0.9997929,Abyssinian,6.0292026e-05,True
+/content/data/oxford-iiit-pet/images/Birman_79.jpg,Birman,Ragdoll,0.9855127,Birman,0.0139641175,False
+/content/data/oxford-iiit-pet/images/beagle_91.jpg,Beagle,Beagle,0.9998456,Abyssinian,4.422876e-05,True
+/content/data/oxford-iiit-pet/images/pug_65.jpg,Pug,Pug,0.999432,Beagle,0.00014112837,True
+/content/data/oxford-iiit-pet/images/samoyed_146.jpg,Samoyed,Samoyed,0.99609274,Staffordshire Bull Terrier,0.00094845763,True
+/content/data/oxford-iiit-pet/images/Bengal_18.jpg,Bengal,Bengal,0.99643123,Abyssinian,0.0025283154,True
+/content/data/oxford-iiit-pet/images/samoyed_88.jpg,Samoyed,Samoyed,0.9977915,Birman,0.00048340013,True
+/content/data/oxford-iiit-pet/images/beagle_55.jpg,Beagle,Beagle,0.9964108,American Pit Bull Terrier,0.0028493097,True
+/content/data/oxford-iiit-pet/images/Ragdoll_142.jpg,Ragdoll,Ragdoll,0.999686,Abyssinian,0.000121108365,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_135.jpg,Russian Blue,Russian Blue,0.99686,Abyssinian,0.0019016996,True
+/content/data/oxford-iiit-pet/images/Ragdoll_3.jpg,Ragdoll,Ragdoll,0.991227,Samoyed,0.005435605,True
+/content/data/oxford-iiit-pet/images/beagle_103.jpg,Beagle,Beagle,0.99996054,American Pit Bull Terrier,1.8261606e-05,True
+/content/data/oxford-iiit-pet/images/Birman_143.jpg,Birman,Ragdoll,0.54229516,Birman,0.45727804,False
+/content/data/oxford-iiit-pet/images/Birman_100.jpg,Birman,Birman,0.9629806,Ragdoll,0.03647316,True
+/content/data/oxford-iiit-pet/images/samoyed_14.jpg,Samoyed,Samoyed,0.9987085,Staffordshire Bull Terrier,0.0003418473,True
+/content/data/oxford-iiit-pet/images/beagle_27.jpg,Beagle,Beagle,0.99986815,American Pit Bull Terrier,4.989621e-05,True
+/content/data/oxford-iiit-pet/images/Abyssinian_61.jpg,Abyssinian,Abyssinian,0.7379846,Bengal,0.22162722,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_1.jpg,Russian Blue,Abyssinian,0.6436213,Russian Blue,0.35176104,False
+/content/data/oxford-iiit-pet/images/Abyssinian_29.jpg,Abyssinian,Abyssinian,0.99978644,Beagle,8.9133304e-05,True
+/content/data/oxford-iiit-pet/images/Russian_Blue_44.jpg,Russian Blue,Russian Blue,0.99993074,Abyssinian,6.608382e-05,True
+/content/data/oxford-iiit-pet/images/Birman_24.jpg,Birman,Birman,0.9304303,Ragdoll,0.062329654,True
+/content/data/oxford-iiit-pet/images/beagle_113.jpg,Beagle,Beagle,0.9996873,Staffordshire Bull Terrier,0.0002182818,True
+/content/data/oxford-iiit-pet/images/samoyed_24.jpg,Samoyed,Samoyed,0.9993799,Staffordshire Bull Terrier,0.0001773868,True

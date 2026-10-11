@@ -1,0 +1,52 @@
+{
+  "config": {
+    "seed": 42,
+    "img_size": 224,
+    "batch_size": 32,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "loss": "CrossEntropyLoss",
+    "max_epochs": 30,
+    "early_stopping_monitor": "val_loss",
+    "patience": 5,
+    "min_delta": 0.0001,
+    "split": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    },
+    "num_workers": 2,
+    "cat_breeds": [
+      "Abyssinian",
+      "Bengal",
+      "Birman",
+      "Ragdoll",
+      "Russian Blue"
+    ],
+    "dog_breeds": [
+      "American Pit Bull Terrier",
+      "Staffordshire Bull Terrier",
+      "Beagle",
+      "Pug",
+      "Samoyed"
+    ],
+    "imagenet_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "imagenet_std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "env": {
+    "python": "3.13.15",
+    "torch": "2.11.0+cu130",
+    "torchvision": "0.26.0+cu130",
+    "device": "cuda",
+    "gpu": "Tesla T4",
+    "seed": 42
+  }
+}
